@@ -1,0 +1,39 @@
+# Visual Studio 缓存与临时文件
+.vs/
+*.suo
+*.user
+*.aps
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+Browse.VC.db
+*.ipch
+ipch/
+
+# 编译输出目录
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+
+# 编译中间产物
+*.pch
+*.pdb
+*.obj
+*.ilk
+*.exp
+*.idb
+*.tlog
+*.log
+*.tmp
+*.lastbuildstate
+
+# 资源/打包临时文件
+*.resx~
+*.~*
+Thumbs.db
+Desktop.ini
